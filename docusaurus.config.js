@@ -9,16 +9,13 @@ const config = {
   title: 'Templates',
   tagline: 'Applications and infrastructures templates powered by Senora.dev and the community.',
   favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
+ 
+// For GitHub pages deployment:
   url: 'https://senora-dev.github.io', // Your website URL
   baseUrl: '/',
   projectName: 'templates',
   organizationName: 'Senora-dev',
   trailingSlash: false,
-  
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
