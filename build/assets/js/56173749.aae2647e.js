@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemplates=self.webpackChunktemplates||[]).push([[9705],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
